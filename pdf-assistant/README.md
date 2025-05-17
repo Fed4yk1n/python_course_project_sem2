@@ -20,6 +20,8 @@ A group project for 6 contributors, providing a modular PDF toolkit:
 
     ```
     python gui/main.py
+    or 
+    python -m gui.main
     ```
 
 ## Project Structure
