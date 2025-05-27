@@ -1,7 +1,0 @@
-pillow
-PyPDF2
-pytesseract
-pdfplumber
-reportlab
-pikepdf
-tk
